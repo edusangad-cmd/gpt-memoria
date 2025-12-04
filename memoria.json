@@ -1,0 +1,8 @@
+{
+  "conversaciones": {
+    "default": [
+      { "rol": "usuario", "contenido": "Hola, ¿cómo estás?" },
+      { "rol": "asistente", "contenido": "¡Hola! Estoy bien, gracias por preguntar." }
+    ]
+  }
+}
